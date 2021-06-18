@@ -2,3 +2,4 @@
 *.html
 *.docx
 .ipynb_checkpoints/
+*.odt
